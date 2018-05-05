@@ -6,61 +6,61 @@
 	],
 	"list": [
 		{
-			"icon" : "https://xcx.gxlself.top/icon/video.jpg",
+			"icon" : "https://xcx.gxlself.top/icon/video.png",
 			"title": "视频教程",
 			"desc" : "在线精品课",
 			"path" : "pages/video/video"
 		},
 		{
-			"icon" : "https://xcx.gxlself.top/icon/video.jpg",
+			"icon" : "https://xcx.gxlself.top/icon/question.png",
 			"title": "高频考题",
 			"desc" : "前端/HTML5",
 			"path" : "pages/question/question"
 		},
 		{
-			"icon" : "https://xcx.gxlself.top/icon/video.jpg",
+			"icon" : "https://xcx.gxlself.top/icon/static.png",
 			"title": "静态网站",
 			"desc" : "HTML/CSS",
 			"path" : "pages/static/static"
 		},
 		{
-			"icon" : "https://xcx.gxlself.top/icon/video.jpg",
+			"icon" : "https://xcx.gxlself.top/icon/mobile.png",
 			"title": "移动端",
 			"desc" : "HTML/CSS3",
 			"path" : "pages/mobile/mobile"
 		},
 		{
-			"icon" : "https://xcx.gxlself.top/icon/video.jpg",
+			"icon" : "https://xcx.gxlself.top/icon/js_ajax.png",
 			"title": "JavaScript",
 			"desc" : "原生JS/AJAX",
 			"path" : "pages/js_ajax/js_ajax"
 		},
 		{
-			"icon" : "https://xcx.gxlself.top/icon/video.jpg",
+			"icon" : "https://xcx.gxlself.top/icon/frame.png",
 			"title": "框架&其他",
 			"desc" : "jQ/PS/其他",
 			"path" : "pages/frame/frame"
 		},
 		{
-			"icon" : "https://xcx.gxlself.top/icon/video.jpg",
+			"icon" : "https://xcx.gxlself.top/icon/resume.png",
 			"title": "简历",
 			"desc" : "书写/投递",
 			"path" : "pages/resume/resume"
 		},
 		{
-			"icon" : "https://xcx.gxlself.top/icon/video.jpg",
+			"icon" : "https://xcx.gxlself.top/icon/personnel.png",
 			"title": "人事面试",
 			"desc" : "介绍/提问",
 			"path" : "pages/personnel/personnel"
 		},
 		{
-			"icon" : "https://xcx.gxlself.top/icon/video.jpg",
+			"icon" : "https://xcx.gxlself.top/icon/work.png",
 			"title": "入职",
 			"desc" : "试用/五险",
 			"path" : "pages/work/work"
 		},
 		{
-			"icon" : "https://xcx.gxlself.top/icon/video.jpg",
+			"icon" : "https://xcx.gxlself.top/icon/tax.png",
 			"title": "税收计算",
 			"desc" : "工资计算工具",
 			"path" : "pages/tax/tax"
